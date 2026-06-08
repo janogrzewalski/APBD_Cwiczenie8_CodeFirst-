@@ -40,6 +40,8 @@ Seeding znajduje się w pliku: Data/LibrarySeeder.cs
 
 Seeder jest wywoływany w Program.cs.
 
+# Pytania
+
 ## Co oznacza ORM i jaki problem rozwiązuje EF Core?
 ORM, czyli Object-Relational Mapping, to mechanizm mapowania obiektów C# na tabele w bazie danych. EF Core rozwiązuje problem ręcznego pisania dużej ilości kodu SQL dla typowych operacji na danych. Dzięki temu można pracować na klasach C#, a EF Core tłumaczy operacje na zapytania SQL.
 
