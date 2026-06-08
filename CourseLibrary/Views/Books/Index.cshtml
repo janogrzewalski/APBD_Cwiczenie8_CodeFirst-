@@ -1,0 +1,40 @@
+﻿@model IEnumerable<CourseLibrary.Models.Book>
+
+@{
+    ViewData["Title"] = "Książki";
+}
+
+<h1>Książki</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Dodaj książkę</a>
+    <a asp-controller="Borrowings" asp-action="Create" class="btn btn-secondary">Dodaj wypożyczenie</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Tytuł</th>
+            <th>ISBN</th>
+            <th>Rok wydania</th>
+            <th>Autor</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Isbn</td>
+                <td>@book.PublishedYear</td>
+                <td>@book.Author?.FirstName @book.Author?.LastName</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@book.Id" class="btn btn-sm btn-outline-primary">
+                        Szczegóły
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,32 @@
+﻿@model CourseLibrary.ViewModels.BorrowingCreateViewModel
+
+@{
+    ViewData["Title"] = "Dodaj wypożyczenie";
+}
+
+<h1>Dodaj wypożyczenie</h1>
+
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="BookId" class="form-label">Książka</label>
+        <select asp-for="BookId" asp-items="Model.Books" class="form-select">
+            <option value="">-- wybierz książkę --</option>
+        </select>
+        <span asp-validation-for="BookId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="BorrowerName" class="form-label">Imię i nazwisko wypożyczającego</label>
+        <input asp-for="BorrowerName" class="form-control" />
+        <span asp-validation-for="BorrowerName" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Zapisz</button>
+    <a asp-controller="Books" asp-action="Index" class="btn btn-secondary">Wróć</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

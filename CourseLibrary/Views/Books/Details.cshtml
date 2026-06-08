@@ -1,0 +1,61 @@
+﻿@model CourseLibrary.Models.Book
+
+@{
+    ViewData["Title"] = "Szczegóły książki";
+}
+
+<h1>Szczegóły książki</h1>
+
+<dl class="row">
+    <dt class="col-sm-3">Tytuł</dt>
+    <dd class="col-sm-9">@Model.Title</dd>
+
+    <dt class="col-sm-3">ISBN</dt>
+    <dd class="col-sm-9">@Model.Isbn</dd>
+
+    <dt class="col-sm-3">Rok wydania</dt>
+    <dd class="col-sm-9">@Model.PublishedYear</dd>
+
+    <dt class="col-sm-3">Autor</dt>
+    <dd class="col-sm-9">@Model.Author?.FirstName @Model.Author?.LastName</dd>
+</dl>
+
+<p>
+    <a asp-controller="Borrowings" asp-action="Create" asp-route-bookId="@Model.Id" class="btn btn-primary">
+        Dodaj wypożyczenie
+    </a>
+    <a asp-action="Index" class="btn btn-secondary">Wróć do listy</a>
+</p>
+
+<h2>Historia wypożyczeń</h2>
+
+@if (!Model.Borrowings.Any())
+{
+    <p>Ta książka nie ma jeszcze wypożyczeń.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Wypożyczający</th>
+                <th>Data wypożyczenia</th>
+                <th>Data zwrotu</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var borrowing in Model.Borrowings.OrderByDescending(b => b.BorrowedAt))
+            {
+                <tr>
+                    <td>@borrowing.BorrowerName</td>
+                    <td>@borrowing.BorrowedAt.ToString("yyyy-MM-dd HH:mm")</td>
+                    <td>
+                        @(borrowing.ReturnedAt.HasValue
+                            ? borrowing.ReturnedAt.Value.ToString("yyyy-MM-dd HH:mm")
+                            : "Nie zwrócono")
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

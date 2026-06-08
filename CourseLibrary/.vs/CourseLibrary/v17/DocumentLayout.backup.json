@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\courselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:courselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\views\\borrowings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:views\\borrowings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\controllers\\borrowingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:controllers\\borrowingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\services\\borrowingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:services\\borrowingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\services\\iborrowingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:services\\iborrowingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\viewmodels\\borrowingcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:viewmodels\\borrowingcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\viewmodels\\bookcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:viewmodels\\bookcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\data\\libraryseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:data\\libraryseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|c:\\users\\janke\\desktop\\zadanie 8\\courselibrary\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA871BFE-CF01-4D44-BB42-4FAFE1F4E7DC}|CourseLibrary.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseLibrary",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\CourseLibrary.csproj",
+              "RelativeDocumentMoniker": "CourseLibrary.csproj",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\CourseLibrary.csproj",
+              "RelativeToolTip": "CourseLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-08T21:44:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:44:34.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Views\\Borrowings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Borrowings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Views\\Borrowings\\Create.cshtml",
+              "RelativeToolTip": "Views\\Borrowings\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:44:19.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:43:57.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:43:25.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:43:00.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Views\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Views\\Authors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:42:43.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BorrowingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Controllers\\BorrowingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BorrowingsController.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Controllers\\BorrowingsController.cs",
+              "RelativeToolTip": "Controllers\\BorrowingsController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:42:10.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:42:03.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:41:53.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BorrowingService.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Services\\BorrowingService.cs",
+              "RelativeDocumentMoniker": "Services\\BorrowingService.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Services\\BorrowingService.cs",
+              "RelativeToolTip": "Services\\BorrowingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:41:23.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBorrowingService.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Services\\IBorrowingService.cs",
+              "RelativeDocumentMoniker": "Services\\IBorrowingService.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Services\\IBorrowingService.cs",
+              "RelativeToolTip": "Services\\IBorrowingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:41:18.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:41:13.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Services\\IBookService.cs",
+              "RelativeToolTip": "Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:41:07.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Services\\AuthorService.cs",
+              "RelativeToolTip": "Services\\AuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:40:59.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Services\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Services\\IAuthorService.cs",
+              "RelativeToolTip": "Services\\IAuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:40:48.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BorrowingCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\ViewModels\\BorrowingCreateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BorrowingCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\ViewModels\\BorrowingCreateViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BorrowingCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:40:37.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\ViewModels\\BookCreateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BookCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\ViewModels\\BookCreateViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BookCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:40:26.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:39:53.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-08T21:39:17.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LibrarySeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Data\\LibrarySeeder.cs",
+              "RelativeDocumentMoniker": "Data\\LibrarySeeder.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Data\\LibrarySeeder.cs",
+              "RelativeToolTip": "Data\\LibrarySeeder.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwFIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:38:36.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:38:27.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Models\\Borrowing.cs",
+              "RelativeDocumentMoniker": "Models\\Borrowing.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Models\\Borrowing.cs",
+              "RelativeToolTip": "Models\\Borrowing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:38:17.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:38:11.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Janke\\Desktop\\Zadanie 8\\CourseLibrary\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:38:02.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
